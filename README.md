@@ -44,7 +44,7 @@
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c.png" alt="c++" width="100" height="100">
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c-programming-569564.png" alt="c" width="100" height="100">
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/flutter.png" alt="flutter" width="100" height="100">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/dart(1).png" alt="dart" width="100" height="100">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/dart_mono.png" alt="dart" width="100" height="100">
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/vscode.png" alt="vscode" width="100" height="100">
 <!-- </br>
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
