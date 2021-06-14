@@ -38,14 +38,14 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/python.png" alt="python" width="200" height="200">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/java.png" alt="java"  width="200" height="200">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/learning.png" alt="AI" width="200" height="200">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c.png" alt="c++" width="200" height="200">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c-programming-569564.png" alt="c" width="200" height="200">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/flutter.png" alt="flutter" width="200" height="200">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/dart.png" alt="dart" width="200" height="200">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/vscode.png" alt="vscode" width="200" height="200">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/python.png" alt="python" width="100" height="100">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/java.png" alt="java"  width="100" height="100">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/learning.png" alt="AI" width="100" height="100">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c.png" alt="c++" width="100" height="100">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c-programming-569564.png" alt="c" width="100" height="100">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/flutter.png" alt="flutter" width="100" height="100">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/dart(1).png" alt="dart" width="100" height="100">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/vscode.png" alt="vscode" width="100" height="100">
 <!-- </br>
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
@@ -66,7 +66,7 @@
  </br>
 
 
-<img height="500" width="500" align="right" alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/luffy.gif">
+<img height="350" width="350" align="right" alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/luffy.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
