@@ -72,10 +72,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:anshulpuransharma@gmail.com">
- <img align="left" alt="Gmail" width="294" height="96" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="150" height="50" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/anshul-sharma-1232a91b0/">
-  <img align="left" alt="Linkedin" width="294" height="96" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" height="50" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
