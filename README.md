@@ -13,7 +13,7 @@
 
 ### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/glasses.gif">
+<img height="300" width="500" alt="GIF" align="right" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/glasses.gif">
 
 ### - Learning :
 - ✨ Machine Learning
@@ -38,15 +38,15 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/python.png" alt="python" width="120" height="50">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/java.png" alt="java"  width="100" height="50">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/learning.png" alt="AI" width="90" height="50">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c.png" alt="c++" width="100" height="50">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c-programming-569564.png" alt="c" width="180" height="50">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/python.png" alt="python" width="200" height="200">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/java.png" alt="java"  width="200" height="200">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/learning.png" alt="AI" width="200" height="200">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c.png" alt="c++" width="200" height="200">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/c-programming-569564.png" alt="c" width="200" height="200">
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/flutter12
-.png" alt="flutter" width="180" height="50">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/dart.png" alt="dart" width="180" height="50">
-<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/vscode.png" alt="vscode" width="180" height="50">
+.png" alt="flutter" width="200" height="200">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/dart.png" alt="dart" width="200" height="200">
+<img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/vscode.png" alt="vscode" width="200" height="200">
 <!-- </br>
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
@@ -67,16 +67,16 @@
  </br>
 
 
-<img height="320" width="450" align="right" alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/luffy.gif">
+<img height="500" width="500" align="right" alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/luffy.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:anshulpuransharma@gmail.com">
- <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="294" height="96" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/anshul-sharma-1232a91b0/">
-  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="294" height="96" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
