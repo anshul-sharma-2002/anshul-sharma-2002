@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/hello.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/yo.gif">
 </div>
 
 </br>
