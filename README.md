@@ -13,6 +13,8 @@
 
 ### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-sharma-2002&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-sharma-2002" /> </p>
+
 <img height="300" width="500" alt="GIF" align="right" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/glasses.gif">
 
 ### - Learning :
@@ -102,7 +104,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul-sharma-2002&show_icons=true&locale=en&layout=compact" alt="anshul-sharma-2002" /></p>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=anshul-sharma-2002&&show_icons=true&theme=radical"/>
