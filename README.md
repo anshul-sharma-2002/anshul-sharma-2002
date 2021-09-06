@@ -116,7 +116,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
    [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
@@ -129,13 +129,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
    <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
 
-  <p align="center">
+  <!-- <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
     ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
-</p>
+</p> --> 
 
 *************
