@@ -111,6 +111,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=anshul-sharma-2002&&show_icons=true&theme=radical"/>
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
   </p>
 
 *************
