@@ -104,12 +104,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul-sharma-2002&show_icons=true&locale=en&layout=compact&theme=radical" alt="anshul-sharma-2002" /></p>
-</br>
-</br>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul-sharma-2002&show_icons=true&locale=en&layout=compact&theme=radical" alt="anshul-sharma-2002" /></p> -->
+<!-- </br>
+</br> -->
 <p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=anshul-sharma-2002&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=anshul-sharma-2002&&show_icons=true&theme=dracula"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
   </p>
