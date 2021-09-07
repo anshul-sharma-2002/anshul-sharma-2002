@@ -94,7 +94,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <i>Let's connect and chat! Find me on the web...</i>
 
   **Website:**
-  
    [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://anshul-sharma-2002.github.io)](https://anshul-sharma-2002.github.io) 
 
   **Linkedin:** 
