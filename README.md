@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h3> Hey there! <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/wave.gif" width="30px"></h3>
 I'm Anshul Sharma, a Competitive Programmer and Data Science Enthusiast from India.
 </div>
 
@@ -18,7 +18,6 @@ I'm Anshul Sharma, a Competitive Programmer and Data Science Enthusiast from Ind
 - ✨ Data Structures & Algorithms
 
 ---
-
 
 
 **Languages & Tools 👨‍💻 🛠:**
@@ -43,9 +42,8 @@ I'm Anshul Sharma, a Competitive Programmer and Data Science Enthusiast from Ind
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/edge.png" alt="edge" width="100" height="50">
 <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" height="50"> -->
 </p>
-</br>
-</br>
-</br>
+
+---
 
 
 
@@ -93,11 +91,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://anshul-sharma-2002.github.io)](https://anshul-sharma-2002.github.io/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul-sharma-1232a91b0/)](https://www.linkedin.com/in/anshul-sharma-1232a91b0/) 
+   [![Website Badge](https://img.shields.io/badge/-anshul-sharma-2002.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://anshul-sharma-2002.github.io)](https://anshul-sharma-2002.github.io/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-anshul-sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul-sharma-1232a91b0/)](https://www.linkedin.com/in/anshul-sharma-1232a91b0/) 
    <!-- [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786)  -->
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshulpuransharma@gmail.com)](mailto:anshulpuransharma@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anshul_sharma_2002)](https://instagram.com/anshul_sharma_2002) 
+   [![Gmail Badge](https://img.shields.io/badge/-anshulpuransharma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshulpuransharma@gmail.com)](mailto:anshulpuransharma@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-anshul_sharma_2002-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anshul_sharma_2002)](https://instagram.com/anshul_sharma_2002) 
    <!-- [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
    [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
 
