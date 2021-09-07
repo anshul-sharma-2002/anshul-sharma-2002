@@ -10,6 +10,8 @@
 I'm Anshul Sharma, a Competitive Programmer and Data Science Enthusiast from India.
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-sharma-2002&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-sharma-2002" /> </p>
+
 --- 
 
 **Currently Learning :**
