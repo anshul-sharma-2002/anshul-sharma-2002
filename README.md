@@ -93,8 +93,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://anshul-sharma-2002.github.io)](https://anshul-sharma-2002.github.io) 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul-sharma-1232a91b0/)](https://www.linkedin.com/in/anshul-sharma-1232a91b0/)
+   [![Website Badge](https://img.shields.io/badge/-anshul-sharma-2002.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://anshul-sharma-2002.github.io)](https://anshul-sharma-2002.github.io) 
+   [![Linkedin Badge](https://img.shields.io/badge/-anshul-sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul-sharma-1232a91b0/)](https://www.linkedin.com/in/anshul-sharma-1232a91b0/)
    <!-- [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786)  -->
    [![Gmail Badge](https://img.shields.io/badge/-anshulpuransharma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshulpuransharma@gmail.com)](mailto:anshulpuransharma@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-anshul_sharma_2002-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anshul_sharma_2002)](https://instagram.com/anshul_sharma_2002) 
