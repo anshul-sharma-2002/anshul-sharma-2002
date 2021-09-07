@@ -1,40 +1,30 @@
-# Konichiwa 👋
 
-<div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/yo.gif">
+<!-- <div align="center">
+<img height="350" width="350" align="right" alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/luffy.gif">
 </div>
 
-</br>
-</br>
-</br>
+--- -->
 
+<div align="center">
+<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+</div>
 
-# About ME 💬 :
+---
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+I'm Anshul Sharma, a Competitive Programmer and Data Science Enthusiast from India.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-sharma-2002&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-sharma-2002" /> </p>
+--- 
 
-<img height="300" width="500" alt="GIF" align="right" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/glasses.gif">
-
-### - Learning :
+**Currently Learning :**
 - ✨ Machine Learning
 - ✨ Computer Vision
 - ✨ Data Structures & Algorithms
 
-### - Hobbies : 
-- ✨ Working on mini projects(Mainly on Python)
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Badminton
-
-</br>
-</br>
-</br>
+---
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+**Languages & Tools 👨‍💻 🛠:**
 </br>
 
 <p align="center">
@@ -116,26 +106,26 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 ---
 
-<!-- <p align="center">
+<p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
-   [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
+   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://anshul-sharma-2002.github.io)](https://anshul-sharma-2002.github.io/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul-sharma-1232a91b0/)](https://www.linkedin.com/in/anshul-sharma-1232a91b0/) 
+   <!-- [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786)  -->
+   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshulpuransharma@gmail.com)](mailto:anshulpuransharma@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anshul_sharma_2002)](https://instagram.com/anshul_sharma_2002) 
+   <!-- [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
    [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
 
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+   [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
 
-  <!-- <p align="center">
+<p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
+    ⭐️ From [Anshul Sharma](https://github.com/anshul-sharma-2002)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
-</p> --> 
+</p> 
 
 *************
