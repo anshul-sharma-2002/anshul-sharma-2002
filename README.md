@@ -1,17 +1,14 @@
 
-<!-- <div align="center">
-<img height="350" width="350" align="right" alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/luffy.gif">
-</div>
-
---- -->
-
 <div align="center">
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<img height="350" width="350" align="right" alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/helloworld.gif">
 </div>
 
 ---
 
+<div align="center">
+<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 I'm Anshul Sharma, a Competitive Programmer and Data Science Enthusiast from India.
+</div>
 
 --- 
 
@@ -79,19 +76,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Steam" width="130" height="100" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/icons/steam.png" />
 </a> -->
  </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br> -->
 
 **Github Stats:**
 
