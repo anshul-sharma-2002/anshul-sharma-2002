@@ -1,6 +1,6 @@
 
 <div align="center">
-<img height="350" width="350" align="right" alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/helloworld.gif">
+<img alt="GIF" src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/helloworld.gif">
 </div>
 
 ---
