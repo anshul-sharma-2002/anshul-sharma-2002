@@ -92,18 +92,23 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
-  <div align="center">
+  
    [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://anshul-sharma-2002.github.io)](https://anshul-sharma-2002.github.io) 
+
    [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul-sharma-1232a91b0/)](https://www.linkedin.com/in/anshul-sharma-1232a91b0/)
+
    <!-- [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786)  -->
+
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshulpuransharma@gmail.com)](mailto:anshulpuransharma@gmail.com)
+
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anshul_sharma_2002)](https://instagram.com/anshul_sharma_2002) 
+
    <!-- [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
+
    [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
 
    [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
 
-</div>
 
 <p align="center">
     Show ❤️ by starring repositories you find good! 
